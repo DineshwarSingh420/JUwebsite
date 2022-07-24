@@ -1,1 +1,1 @@
-# JUwebsite
+# juwebsite
